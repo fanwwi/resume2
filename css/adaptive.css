@@ -1,0 +1,99 @@
+@media all and (max-width: 945px) {
+    .experience hr {
+        width: 180px;
+    }
+}
+@media all and (max-width: 900px) {
+    .hr1, .hr3 {
+        width: 550px;
+    }
+    .hr2 {
+        width: 500px;
+    }
+    .left {
+        margin-left: 20px;
+        margin-right: -40px;
+    }
+    .right span {
+        margin-left: -200px;
+    }
+}
+@media all and (max-width: 890px) {
+    .container {
+        max-width: 700px;
+    }
+    .general_text p {
+        width: 400px;
+    }
+    .hr1, .hr3 {
+        width: 530px;
+    }
+    .hr2 {
+        width: 480px;
+    }
+    .left {
+        margin-left: -60px;
+    }
+    .right span {
+        margin-left: -300px;
+    }
+    .prices ul {
+        width: 220px;
+    }
+    .prices h3 {
+        width: 220px;
+    }
+}
+@media all and (max-width: 880px) {
+    .container {
+        width: 750px;
+    }
+    .prices ul {
+        width: 220px;
+    }
+    .prices h3 {
+        width: 220px;
+    }
+    .hr1, .hr3 {
+        width: 400px;
+    }
+    .hr2 {
+        width: 350px;
+    }
+    .left {
+        margin-left: 10px;
+    }
+    .right span {
+        margin-left: -350px;
+    }
+}
+@media all and (max-width: 870px) {
+    .container {
+        width: 700px;
+    }
+    .experience hr {
+        width: 160px;
+    }
+    .left {
+        margin-left: -20px;
+    }
+    .right span {
+        width: 140px;
+        margin-left: 20px;
+    }
+    .footer_item {
+        width: 700px;
+        margin-right: -20px;
+    }
+    .prices ul {
+        width: 200px;
+    }
+    .prices h3 {
+        width: 200px;
+    }
+}
+@media all and (max-width: 830px) {
+    .container {
+        width: 650px;
+    }
+}
